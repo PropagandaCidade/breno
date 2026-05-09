@@ -1,6 +1,6 @@
-# BriefingBot 🤖
+# Breno 🤖
 
-Agente para criação de briefings profissionais de projetos.
+Agente brasileiro para criação de briefings profissionais de projetos.
 
 ## Como usar
 

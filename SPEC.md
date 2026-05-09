@@ -1,6 +1,6 @@
 # SPEC.md - BriefingBot
 
-## Agente: BriefingBot
+## Agente: Breno
 
 **Nome:** BriefingBot  
 **Objetivo:** Criar briefings detalhados para projetos de design, desenvolvimento e marketing com base em inputs do usuário.
